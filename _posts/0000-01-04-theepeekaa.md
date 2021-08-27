@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to my survey"
 ---
-How much easier to obtain an admit for an international students in US universities?
+**How much easier to obtain an admit for an international students in US universities?**
 - [ ] Easy
 - [ ] Moderate
 - [ ] difficult
