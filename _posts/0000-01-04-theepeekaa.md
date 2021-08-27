@@ -1,5 +1,9 @@
 ---
 layout: slide
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Welcome to my survey"
 ---
+How much easier to obtain an admit for an international students in US universities?
+- [ ] Easy
+- [ ] Moderate
+- [ ] difficult
+- [ ] very difficult
