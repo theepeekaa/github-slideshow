@@ -3,7 +3,7 @@ layout: slide
 title: Survey
 ---
 **Is it too expensive to study in USA?**
-- [ ] yes
+- [x] yes
 - [ ] No
 - [ ] May be
 
